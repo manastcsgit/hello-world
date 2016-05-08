@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="01HW439653" name="com.test.MyMathTest" skipped="0" tests="1" time="0.053" timestamp="2016-05-07T13:36:49">
+  <properties>
+    <property name="ant.project.invoked-targets" value="main" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.file.TestAnt" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\build.xml" />
+    <property name="sun.boot.library.path" value="D:\Softwares\jdk1.7.0_45\jre\bin" />
+    <property name="java.vm.version" value="24.45-b08" />
+    <property name="ant.library.dir" value="D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.script" value="" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt" />
+    <property name="java.runtime.version" value="1.7.0_45-b18" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="basedir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt" />
+    <property name="java.endorsed.dirs" value="D:\Softwares\jdk1.7.0_45\jre\lib\endorsed" />
+    <property name="os.arch" value="x86" />
+    <property name="ant.project.default-target" value="main" />
+    <property name="java.io.tmpdir" value="C:\Users\342749\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant.jar" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows 7" />
+    <property name="ant.home" value="D:\apache-ant-1.9.7-bin\apache-ant-1.9.7" />
+    <property name="build.dir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\bin" />
+    <property name="ant.project.name" value="TestAnt" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.library.path" value="D:\Softwares\jdk1.7.0_45\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Ruby22-x64\bin;D:\Softwares\jdk1.7.0_45\bin;C:\Users\342749\AppData\Local\Programs\Git\cmd;D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin;;." />
+    <property name="java.class.version" value="51.0" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="test.report.dir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\testreport" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\build.xml" />
+    <property name="user.home" value="C:\Users\342749" />
+    <property name="user.timezone" value="" />
+    <property name="ant.file.type.TestAnt" value="file" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.class.path" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\lib\junit.jar;D:\MyWorkSpaces\CIIRetailWS2\TestAnt\lib\org.hamcrest.core_1.3.0.v201303031735.jar;D:\MyWorkSpaces\CIIRetailWS2\TestAnt\bin;D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-launcher.jar;D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant.jar;D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-junit.jar;D:\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-junit4.jar" />
+    <property name="user.name" value="342749" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.test.MyMathTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\MyWorkSpaces\CIIRetailWS2\TestAnt\testreport\TEST-com.test.MyMathTest.xml crashfile=D:\MyWorkSpaces\CIIRetailWS2\TestAnt\junitvmwatcher9000275243192846270.properties propsfile=D:\MyWorkSpaces\CIIRetailWS2\TestAnt\junit5163462688763725027.properties" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.home" value="D:\Softwares\jdk1.7.0_45\jre" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="user.language" value="en" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="test.dir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\src" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.7.0_45" />
+    <property name="java.ext.dirs" value="D:\Softwares\jdk1.7.0_45\jre\lib\ext;C:\windows\Sun\Java\lib\ext" />
+    <property name="sun.boot.class.path" value="D:\Softwares\jdk1.7.0_45\jre\lib\resources.jar;D:\Softwares\jdk1.7.0_45\jre\lib\rt.jar;D:\Softwares\jdk1.7.0_45\jre\lib\sunrsasign.jar;D:\Softwares\jdk1.7.0_45\jre\lib\jsse.jar;D:\Softwares\jdk1.7.0_45\jre\lib\jce.jar;D:\Softwares\jdk1.7.0_45\jre\lib\charsets.jar;D:\Softwares\jdk1.7.0_45\jre\lib\jfr.jar;D:\Softwares\jdk1.7.0_45\jre\classes" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="\" />
+    <property name="src.dir" value="D:\MyWorkSpaces\CIIRetailWS2\TestAnt\src" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="ant.file.type" value="file" />
+    <property name="sun.desktop" value="windows" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+  </properties>
+  <testcase classname="com.test.MyMathTest" name="testMulti" time="0.002" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
