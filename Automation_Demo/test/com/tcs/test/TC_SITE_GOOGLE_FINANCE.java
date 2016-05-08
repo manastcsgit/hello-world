@@ -19,7 +19,7 @@ public class TC_SITE_GOOGLE_FINANCE extends AppTestEngine {
 
 	@Test
 	public void test() {
-		automationEngine.submit("q", ElementTypes.NAME, "State Bank");
+		automationEngine.submit("q", ElementTypes.NAME, "State Banks");
 		automationEngine.click("manas Naik", ElementTypes.LINK);
 	}
 
